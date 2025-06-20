@@ -6,16 +6,16 @@ The project was featured at IEEE Maker Fair Website: https://transmitter.ieee.or
 
 # Table of Contents
 - [Introduction](https://github.com/ArghyaChatterjee/fire-and-flood-fighter-octocopter/tree/master?tab=readme-ov-file#introduction)
-  - [Hardware](https://github.com/ArghyaChatterjee/fire-and-flood-fighter-octocopter/tree/master?tab=readme-ov-file#introduction)
-  - [Project Contributors](https://github.com/ArghyaChatterjee/fire-and-flood-fighter-octocopter/tree/master?tab=readme-ov-file#introduction)
-  - [Live Demo](https://github.com/ArghyaChatterjee/fire-and-flood-fighter-octocopter/tree/master?tab=readme-ov-file#introduction)
-- [Fire Fighter Octocopter](https://github.com/ArghyaChatterjee/fire-and-flood-fighter-octocopter/tree/master?tab=readme-ov-file#introduction)
-  - [Mission Planner for Ground Station](https://github.com/ArghyaChatterjee/fire-and-flood-fighter-octocopter/tree/master?tab=readme-ov-file#introduction)
-  - [Mission Planner Overview](https://github.com/ArghyaChatterjee/fire-and-flood-fighter-octocopter/tree/master?tab=readme-ov-file#introduction)
-  - [Launch on Windows](https://github.com/ArghyaChatterjee/fire-and-flood-fighter-octocopter/tree/master?tab=readme-ov-file#introduction)
-- [Flood Management Octocopter](https://github.com/ArghyaChatterjee/fire-and-flood-fighter-octocopter/tree/master?tab=readme-ov-file#introduction)
-  - [Compile on Linux](https://github.com/ArghyaChatterjee/fire-and-flood-fighter-octocopter/tree/master?tab=readme-ov-file#introduction)
-  - [Face Recognition During Delivery Mission](https://github.com/ArghyaChatterjee/fire-and-flood-fighter-octocopter/tree/master?tab=readme-ov-file#introduction)
+  - [Hardware](https://github.com/ArghyaChatterjee/fire-and-flood-fighter-octocopter/tree/master?tab=readme-ov-file#hardware)
+  - [Project Contributors](https://github.com/ArghyaChatterjee/fire-and-flood-fighter-octocopter/tree/master?tab=readme-ov-file#project-contributors)
+  - [Live Demo](https://github.com/ArghyaChatterjee/fire-and-flood-fighter-octocopter/tree/master?tab=readme-ov-file#live-demo)
+- [Fire Fighter Octocopter](https://github.com/ArghyaChatterjee/fire-and-flood-fighter-octocopter/tree/master?tab=readme-ov-file#fire-fighter-octocopter)
+  - [Mission Planner for Ground Station](https://github.com/ArghyaChatterjee/fire-and-flood-fighter-octocopter/tree/master?tab=readme-ov-file#mission-planner-for-ground-station)
+  - [Mission Planner Overview](https://github.com/ArghyaChatterjee/fire-and-flood-fighter-octocopter/tree/master?tab=readme-ov-file#mission-planner-overview)
+  - [Launch on Windows](https://github.com/ArghyaChatterjee/fire-and-flood-fighter-octocopter/tree/master?tab=readme-ov-file#launch-on-windows)
+- [Flood Relief Distributor Octocopter](https://github.com/ArghyaChatterjee/fire-and-flood-fighter-octocopter/tree/master?tab=readme-ov-file#flood-relief-distributor-octocopter)
+  - [Compile on Linux](https://github.com/ArghyaChatterjee/fire-and-flood-fighter-octocopter/tree/master?tab=readme-ov-file#compile-on-linux)
+  - [Face Recognition During Delivery Mission](https://github.com/ArghyaChatterjee/fire-and-flood-fighter-octocopter/tree/master?tab=readme-ov-file#face-recognition-during-delivery-mission)
 
 # Introduction
 ## Hardware Design
