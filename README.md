@@ -11,10 +11,11 @@ The project was featured at IEEE Maker Fair Website: https://transmitter.ieee.or
 </p>
 
 ## Project Contributor
-1. Arghya Chatterjee
-2. Rumayel Hasan Pallock 
-3. Boshra Aziz Roshni
-4. Al Mamun
+- Arghya Chatterjee
+- Rumayel Hasan Pallock 
+- Boshra Aziz Roshni
+- Al Mamun
+
 ## Live Demo
 For watching the copter in action, please visit [here](https://www.youtube.com/watch?v=dqQoOxy7XEo&list=PLVy6YSUUzzp0ME0aE1SHiJquqTTtoAA5Z).
 
