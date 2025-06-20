@@ -98,7 +98,7 @@ python3 Drone_Delivery.py
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=WFqThcMIN7A" target="_blank">
-    <img src="assets/fire_drone_2.gif" alt="Video Thumbnail" width="60%">
+    <img src="assets/fire_drone_2.gif" alt="Video Thumbnail" width="70%">
   </a>
 </p>
 
