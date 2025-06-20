@@ -18,7 +18,7 @@ The project was featured at IEEE Maker Fair Website: https://transmitter.ieee.or
   - [Face Recognition During Delivery Mission](https://github.com/ArghyaChatterjee/fire-and-flood-fighter-octocopter/tree/master?tab=readme-ov-file#face-recognition-during-delivery-mission)
 
 # Introduction
-## Hardware Design
+## Hardware
 <p float="left">
   <img src="assets/3D_view.png", width="370">
   <img src="assets/Solid_Design.jpg", width="450">
