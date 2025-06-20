@@ -52,7 +52,7 @@ You can debug Mission Planner on Mono with:
 ```
 MONO_LOG_LEVEL=debug mono MissionPlanner.exe
 ```
-# Delivery Mission Octocopter
+# Flood Management Octocopter
 <p float="left">
   <img src="assets/Octocopter.jpg", width="400">
   <img src="assets/Front_octocopter.jpg", width="400">
