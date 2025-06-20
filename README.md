@@ -95,13 +95,12 @@ python3 Drone_Delivery.py
 ```
 
 ## Project Goal
-<p align="center">
-  <img src="assets/fire_drone_2.gif", width="600">
-</p>
-Source Video: https://www.youtube.com/watch?v=WFqThcMIN7A
 
-<br>
-</br>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=WFqThcMIN7A" target="_blank">
+    <img src="assets/fire_drone_2.gif" alt="Video Thumbnail" width="60%">
+  </a>
+</p>
 
 <p align="center">
   <img src="assets/fire_drone.gif", width="600">
