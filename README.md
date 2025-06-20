@@ -116,6 +116,6 @@ python3 drone_delivery.py
     <img src="assets/fire_drone.gif" width="400">
   </a>
   <a href="https://www.youtube.com/watch?v=Bm2BVTTir4c" target="_blank">
-    <img src="assets/fire_drone_2.gif" width="300">
+    <img src="assets/fire_drone_2.gif" width="400">
   </a>
 </div>
