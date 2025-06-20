@@ -1,4 +1,4 @@
-# Fire and Flood Management Octocopter <br >
+# Fire and Flood Fighter Octocopter
 
 It's a Pixhawk & Raspberry Pi based remote controlled or autonomous 8-armed UAV which will fight as firefighter & work as flood relief distributor.
 
