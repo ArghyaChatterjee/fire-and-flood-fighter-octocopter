@@ -111,14 +111,11 @@ python3 drone_delivery.py
 
 # Project Goal
 
-<p align="center">
+<div align="center">
   <a href="https://www.youtube.com/watch?v=WFqThcMIN7A" target="_blank">
-    <img src="assets/fire_drone_2.gif" alt="Video Thumbnail" width="70%">
+    <img src="assets/fire_drone.gif" width="400">
   </a>
-</p>
-
-<p align="center">
   <a href="https://www.youtube.com/watch?v=Bm2BVTTir4c" target="_blank">
-    <img src="assets/fire_drone.gif" alt="Video Thumbnail" width="70%">
+    <img src="assets/fire_drone_2.gif" width="300">
   </a>
-</p>
+</div>
