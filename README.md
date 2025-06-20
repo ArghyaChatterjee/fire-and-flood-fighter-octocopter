@@ -5,17 +5,17 @@ It's a Pixhawk & Raspberry Pi based remote controlled or autonomous 8-armed UAV 
 The project was featured at IEEE Maker Fair Website: https://transmitter.ieee.org/makerproject/view/cabcb
 
 # Table of Contents
-- [Introduction]()
-  - [Hardware]()
-  - [Project Contributors]()
-  - [Live Demo]()
-- [Fire Fighter Octocopter]()
-  - [Mission Planner for Ground Station]()
-  - [Mission Planner Overview]()
-  - [Launch on Windows]()
-- [Flood Management Octocopter]()
-  - [Compile on Linux]()
-  - [Face Recognition During Delivery Mission]()
+- [Introduction](https://github.com/ArghyaChatterjee/fire-and-flood-fighter-octocopter/tree/master?tab=readme-ov-file#introduction)
+  - [Hardware](https://github.com/ArghyaChatterjee/fire-and-flood-fighter-octocopter/tree/master?tab=readme-ov-file#introduction)
+  - [Project Contributors](https://github.com/ArghyaChatterjee/fire-and-flood-fighter-octocopter/tree/master?tab=readme-ov-file#introduction)
+  - [Live Demo](https://github.com/ArghyaChatterjee/fire-and-flood-fighter-octocopter/tree/master?tab=readme-ov-file#introduction)
+- [Fire Fighter Octocopter](https://github.com/ArghyaChatterjee/fire-and-flood-fighter-octocopter/tree/master?tab=readme-ov-file#introduction)
+  - [Mission Planner for Ground Station](https://github.com/ArghyaChatterjee/fire-and-flood-fighter-octocopter/tree/master?tab=readme-ov-file#introduction)
+  - [Mission Planner Overview](https://github.com/ArghyaChatterjee/fire-and-flood-fighter-octocopter/tree/master?tab=readme-ov-file#introduction)
+  - [Launch on Windows](https://github.com/ArghyaChatterjee/fire-and-flood-fighter-octocopter/tree/master?tab=readme-ov-file#introduction)
+- [Flood Management Octocopter](https://github.com/ArghyaChatterjee/fire-and-flood-fighter-octocopter/tree/master?tab=readme-ov-file#introduction)
+  - [Compile on Linux](https://github.com/ArghyaChatterjee/fire-and-flood-fighter-octocopter/tree/master?tab=readme-ov-file#introduction)
+  - [Face Recognition During Delivery Mission](https://github.com/ArghyaChatterjee/fire-and-flood-fighter-octocopter/tree/master?tab=readme-ov-file#introduction)
 
 # Introduction
 ## Hardware Design
