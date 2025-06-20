@@ -106,7 +106,7 @@ sudo pip3 install face_recognition
 3. Running the Delivery Recognition model:
 ```
 cd ~/UAV Delivery Recognition 
-python3 Drone_Delivery.py
+python3 drone_delivery.py
 ```
 
 # Project Goal
