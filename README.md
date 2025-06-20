@@ -4,13 +4,27 @@ It's a Pixhawk & Raspberry Pi based remote controlled or autonomous 8-armed UAV 
 
 The project was featured at IEEE Maker Fair Website: https://transmitter.ieee.org/makerproject/view/cabcb
 
+# Table of Contents
+- [Introduction]()
+  - [Hardware]()
+  - [Project Contributors]()
+  - [Live Demo]()
+- [Fire Fighter Octocopter]()
+  - [Mission Planner for Ground Station]()
+  - [Mission Planner Overview]()
+  - [Launch on Windows]()
+- [Flood Management Octocopter]()
+  - [Compile on Linux]()
+  - [Face Recognition During Delivery Mission]()
+
+# Introduction
 ## Hardware Design
 <p float="left">
   <img src="assets/3D_view.png", width="370">
   <img src="assets/Solid_Design.jpg", width="450">
 </p>
 
-## Project Contributor
+## Project Contributors
 - Arghya Chatterjee
 - Rumayel Hasan Pallock 
 - Boshra Aziz Roshni
@@ -25,7 +39,7 @@ For watching the copter in action, please visit [here](https://www.youtube.com/w
   <img src="assets/F2_Fightocopter.png", width="420">
 </p>
 
-## Mission-Planner-for-Ground-Station
+## Mission Planner for Ground Station
 
 - Website : http://ardupilot.org/planner/  
 - Forum : http://discuss.ardupilot.org/c/ground-control-software/mission-planner
@@ -71,7 +85,7 @@ or full Mono :
 sudo apt install mono-complete
 ```
 
-## Face-Recognition-During-Delivery-Mission
+## Face Recognition During Delivery Mission
 <p align="center">
   <img src="assets/delivery detection.gif", width="600">
 </p>
@@ -95,7 +109,7 @@ cd ~/UAV Delivery Recognition
 python3 Drone_Delivery.py
 ```
 
-## Project Goal
+# Project Goal
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=WFqThcMIN7A" target="_blank">
