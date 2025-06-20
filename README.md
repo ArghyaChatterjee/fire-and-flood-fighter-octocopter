@@ -104,6 +104,7 @@ python3 Drone_Delivery.py
 </p>
 
 <p align="center">
-  <img src="assets/fire_drone.gif", width="600">
+  <a href="https://www.youtube.com/watch?v=Bm2BVTTir4c" target="_blank">
+    <img src="assets/fire_drone.gif" alt="Video Thumbnail" width="70%">
+  </a>
 </p>
-Source Video: https://www.youtube.com/watch?v=Bm2BVTTir4c
